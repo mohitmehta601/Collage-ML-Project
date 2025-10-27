@@ -1,0 +1,101 @@
+ticker_symbol,company_name,insider_role,under_schedule,earliest_execution_date,filing_date,aggregated_signal,aggregated_shares,aggregated_value_usd,aggregated_percent_of_shares,high_risk,predicted_high_risk,risk_probability
+BANF,BANCFIRST CORP /OK/,President and CEO and Director,False,2019-12-31,2020-01-03,none,-5357500.0,0.0,-50.0,1,1,0.9969272
+NXTT,Next Technology Holding Inc.,Chairman of the Board,False,2022-04-13,2022-12-06,none,-81844294.0,0.0,-61.016549,1,1,0.9955113
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,200.0,0.0,100.0,1,1,0.99516934
+WETH,Wetouch Technology Inc.,10% Owner,False,2021-11-17,2022-03-24,none,-2799088.0,0.0,-62.241472,1,1,0.9947291
+GHST,GHST World Inc.,Director,False,2022-02-23,2022-06-27,buy,17579562.0,31643.21,99.964744,1,1,0.994549
+WOLV,Wolverine Resources Corp.,Director,False,2020-03-13,2020-03-16,buy,2000000.0,4600.0,177.755657,1,1,0.99453187
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-1141.0,0.0,-100.0,1,1,0.9945003
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-1141.0,0.0,-100.0,1,1,0.9945003
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-4944.0,0.0,-100.0,1,1,0.99448436
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-1282.0,0.0,-100.0,1,1,0.99445736
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-1282.0,0.0,-100.0,1,1,0.99445736
+VIPZ,"VIP Play, Inc.",Director,False,2021-12-17,2021-12-21,sell,-2500000.0,-34500.0,-83.333333,1,1,0.99442947
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-1241.0,0.0,-100.0,1,1,0.9943975
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-1241.0,0.0,-100.0,1,1,0.9943975
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-9430.0,0.0,-100.0,1,1,0.99427456
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-9430.0,0.0,-100.0,1,1,0.99427456
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-9430.0,0.0,-100.0,1,1,0.99427456
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-9430.0,0.0,-100.0,1,1,0.99427456
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-9430.0,0.0,-100.0,1,1,0.99427456
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-9430.0,0.0,-100.0,1,1,0.99427456
+BSFC,Blue Star Foods Corp.,Former CEO Director+10% Holder,False,2018-11-08,2021-02-02,none,-4625000.0,0.0,-92.5,1,1,0.99427384
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-9431.0,0.0,-100.0,1,1,0.9941063
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-9431.0,0.0,-100.0,1,1,0.9941063
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-9431.0,0.0,-100.0,1,1,0.9941063
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-9431.0,0.0,-100.0,1,1,0.9941063
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-1699.0,0.0,-100.0,1,1,0.9940943
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-1699.0,0.0,-100.0,1,1,0.9940943
+UAMY,UNITED STATES ANTIMONY CORP,Other,False,2021-02-09,2021-02-19,sell,-400000.0,-552210.9,-100.0,1,1,0.9940795
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-1891.0,0.0,-100.0,1,1,0.9940392
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-1891.0,0.0,-100.0,1,1,0.9940392
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-4055.0,0.0,-100.0,1,1,0.9940352
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-4054.0,0.0,-100.0,1,1,0.9940352
+CRCW,Crypto Co,Director,False,2025-06-24,2025-06-26,none,67106721.0,0.0,55.817976,0,1,0.99403113
+ELSE,ELECTRO SENSORS INC,Director,False,2021-12-30,2021-12-30,none,-803572.0,0.0,-80.00008,0,1,0.9938532
+UHGI,"Ultimate Holdings Group, Inc.",Other,False,2023-04-21,2023-04-25,sell,-493884000.0,-345718.8,-98.7768,1,1,0.99382186
+LGMK,"LogicMark, Inc.",10% Owner,False,2024-10-09,2024-10-18,buy,3464987.0,306879.9,113.599166,1,1,0.9937649
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-9724.0,0.0,-162.962963,1,1,0.9936906
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-9724.0,0.0,-162.962963,1,1,0.9936906
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-9724.0,0.0,-162.962963,1,1,0.9936906
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-9724.0,0.0,-162.962963,1,1,0.9936906
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-9724.0,0.0,-162.962963,1,1,0.9936906
+BRZE,"Braze, Inc.",Chief Technology Officer,False,2021-11-19,2021-11-23,none,-1804458.0,0.0,-103.269445,1,1,0.9936732
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,9600.0,0.0,100.0,1,1,0.9935509
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-1065.0,0.0,-100.0,1,1,0.99350077
+BRQL,BrooQLy Inc.,CFO,False,2025-02-26,2025-03-05,sell,-1800000.0,-1800.0,-90.0,1,1,0.9933002
+TRTN-PD,Triton International Ltd,Director,False,2023-09-28,2023-10-02,none,-5186.0,0.0,-100.0,1,1,0.99328387
+FNGR,"FingerMotion, Inc.",GM of Issuer's affiliate,False,2020-05-01,2023-07-05,buy,1200000.0,240000.0,120.0,1,1,0.9932712
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-9726.0,0.0,-162.969169,1,1,0.9932656
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-9726.0,0.0,-162.969169,1,1,0.9932656
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-9726.0,0.0,-162.969169,1,1,0.9932656
+MMCP,"Mag Mile Capital, Inc.",Other,False,2022-11-17,2023-05-16,sell,-5100000.0,-300000.0,-51.0,1,1,0.9932528
+HY,"HYSTER-YALE, INC.",Other,False,2024-06-13,2024-06-17,none,435.0,0.0,71.663921,1,1,0.9931819
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-9725.0,0.0,-162.952413,1,1,0.9931559
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-9725.0,0.0,-162.952413,1,1,0.9931559
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-5279.0,0.0,-57.343037,1,1,0.9931178
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-5279.0,0.0,-57.343037,1,1,0.9931178
+IMTH,"INNOVATIVE MEDTECH, INC.",Director,False,2021-03-25,2022-06-23,buy,2574256.0,128712.8,104.644042,1,1,0.99310875
+CTGL,"CITRINE GLOBAL, CORP.",Director,False,2020-01-06,2020-01-08,none,2695530.0,0.0,83.391392,0,1,0.993028
+HY,"HYSTER-YALE, INC.",Other,False,2020-12-31,2021-01-26,buy,7352.0,408036.0,838.312429,1,1,0.9930187
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-6800.0,0.0,-60.719707,1,1,0.99296886
+FMCB,FARMERS & MERCHANTS BANCORP,Exec Vice President,False,2022-06-23,2022-06-23,sell,-311.0,-287675.0,-100.0,0,1,0.9929287
+PHCI,Panamera Holdings Corp,"CFO, Treasurer",False,2022-12-15,2022-12-21,none,1670000.0,0.0,50.0,1,1,0.9928973
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-5281.0,0.0,-57.352302,1,1,0.9928231
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-5281.0,0.0,-57.352302,1,1,0.9928231
+ABQQ,AB INTERNATIONAL GROUP CORP.,10% Owner,False,2025-05-15,2025-05-23,buy,1750000000.0,350000.0,87.5,1,1,0.9928148
+AWCA,"Awaysis Capital, Inc.",Other,False,2021-11-19,2021-11-22,sell,-98008000.0,-499840.8,-99.898072,1,1,0.9927568
+TRTN-PD,Triton International Ltd,Director,False,2023-09-28,2023-10-02,none,-9159.314,0.0,-100.0,1,1,0.9927476
+RBA,RB GLOBAL INC.,"President, Canada",False,2021-03-05,2021-03-08,sell,-6480.0,-336960.0,-100.0,1,1,0.9927335
+ANG-PD,American National Group Inc.,EVP & General Counsel,False,2024-05-02,2024-05-06,none,-8102.0,0.0,-100.0,1,1,0.9926818
+KSEZ,Kinetic Seas Inc.,Chief Technology Officer,False,2024-05-31,2024-06-03,none,-900000.0,0.0,-90.0,1,1,0.9926374
+ANG-PD,American National Group Inc.,Chief Financial Officer,False,2024-05-02,2024-05-06,none,-8611.0,0.0,-137.753959,1,1,0.992623
+LNBY,Landbay Inc,Other,False,2024-04-01,2024-05-06,sell,-29583700.0,-490907.79,-100.0,1,1,0.9925553
+LNBY,Landbay Inc,Other,False,2024-04-01,2024-05-06,sell,-29583700.0,-490907.79,-100.0,1,1,0.9925553
+HBB,Hamilton Beach Brands Holding Co,Other,False,2022-06-03,2022-06-06,none,-3056.0,0.0,-100.0,1,1,0.9925464
+BRZE,"Braze, Inc.",Pres & Chief Customer Officer,False,2021-11-19,2021-11-23,none,-1247222.0,0.0,-145.307474,1,1,0.9925063
+BRTX,"BioRestorative Therapies, Inc.",VP of Research and Development,False,2020-11-23,2020-11-24,none,8375671.0,0.0,14967.781193,0,1,0.992405
+HY,"HYSTER-YALE, INC.",Other,False,2024-06-13,2024-06-17,none,434.0,0.0,71.381579,1,1,0.99239177
+HY,"HYSTER-YALE, INC.",Other,False,2024-06-13,2024-06-17,none,434.0,0.0,71.381579,1,1,0.99239177
+ROOT,"Root, Inc.",Chief Financial Officer,False,2020-10-30,2020-11-03,none,-954291.0,0.0,-280.47007,1,1,0.9923826
+OWPC,"One World Products, Inc.",10% Owner,False,2022-05-09,2024-01-19,buy,3101046.0,277730.82,42.174571,1,1,0.9923804
+KTEL,"KonaTel, Inc.",Other,False,2020-08-18,2020-10-23,sell,-1630545.0,-163478.45,-41.27962,1,1,0.99232143
+HY,"HYSTER-YALE, INC.",Other,False,2020-12-31,2021-01-26,buy,14704.0,816072.0,1676.624857,1,1,0.99228245
+HY,"HYSTER-YALE, INC.",Other,False,2020-12-31,2021-01-26,buy,14704.0,816072.0,1676.624857,1,1,0.9921754
+ADIL,"ADIAL PHARMACEUTICALS, INC.",Chief Medical Officer,False,2020-08-20,2020-08-24,sell,-350000.0,-423500.0,-99.699477,1,1,0.992105
+ROOT,"Root, Inc.",Director,False,2020-10-30,2020-11-03,none,-172911.0,0.0,-100.0,1,1,0.99199986
+ARKO,ARKO Corp.,Director,False,2020-12-30,2022-01-04,sell,-515000.0,-1545.0,-68.56163,1,1,0.9919803
+SPHR,Sphere Entertainment Co.,Other,False,2020-04-17,2020-04-20,none,21155.0,0.0,2115.5,1,1,0.99189746
+LIMX,Limitless X Holdings Inc.,VP Legal Affairs,False,2024-09-10,2025-01-03,none,658476.0,0.0,3727.152318,1,1,0.9918786
+WHLRL,"Wheeler Real Estate Investment Trust, Inc.",Other,False,2023-10-09,2023-10-11,sell,-254961.0,-263731.66,-49.079664,0,1,0.9918676
+SQLLW,ATLANTIC INTERNATIONAL CORP.,General Counsel,False,2025-01-07,2025-01-10,buy,577171.0,57.72,57.619493,1,1,0.9918521
+GSAC,GELSTAT CORP,Director,False,2012-12-31,2022-03-08,buy,84000609.0,390881.75,243.063296,1,1,0.9918085
+SPHR,Sphere Entertainment Co.,Director,False,2020-04-17,2020-04-20,none,9541.0,0.0,954.1,1,1,0.9917441
+ASTC,ASTROTECH Corp,Other,False,2022-04-15,2022-04-18,sell,-233332.0,-471330.64,-51.474647,1,1,0.99170774
+IWSH,"Wright Investors Service Holdings, Inc.",President  and CEO,False,2020-12-30,2020-12-31,buy,582500.0,116500.0,132.040657,0,1,0.9916789
+CPTP,CAPITAL PROPERTIES INC /RI/,Other,False,2022-02-15,2022-08-22,none,-1726710.0,0.0,-50.0,1,1,0.99164516
+HY,"HYSTER-YALE, INC.",Other,False,2020-12-31,2021-01-26,buy,7352.0,408036.0,839.269406,1,1,0.9915998
+HY,"HYSTER-YALE, INC.",Other,False,2020-12-31,2021-01-26,buy,7352.0,408036.0,839.269406,1,1,0.9915998
+HY,"HYSTER-YALE, INC.",Other,False,2020-12-31,2021-01-26,buy,7352.0,408036.0,839.269406,1,1,0.9915998
+HY,"HYSTER-YALE, INC.",Other,False,2020-12-31,2021-01-26,buy,7352.0,408036.0,838.312429,1,1,0.991597
+HY,"HYSTER-YALE, INC.",Other,False,2020-12-31,2021-01-26,buy,7352.0,408036.0,839.269406,1,1,0.99157315

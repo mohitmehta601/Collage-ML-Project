@@ -1,0 +1,42 @@
+{
+  "model_version": "3.0",
+  "model_type": "Precision_XGBoost",
+  "train_date": "2025-10-26T22:37:15.128837",
+  "optimal_threshold": 0.91363525390625,
+  "test_accuracy": 0.9584859469893131,
+  "test_precision": 0.3145252297275512,
+  "test_recall": 0.9255218216318786,
+  "test_f1": 0.46949825532426903,
+  "roc_auc": 0.9824118233652275,
+  "features_used": [
+    "role_weight",
+    "no_plan",
+    "abs_value_usd",
+    "abs_percent_shares",
+    "abs_shares",
+    "log_value_usd",
+    "log_shares",
+    "p_value_tkr",
+    "p_percent_tkr",
+    "p_shares_tkr",
+    "is_buy",
+    "is_sell",
+    "value_x_role",
+    "percent_x_role",
+    "log_value_x_role",
+    "high_value_no_plan",
+    "is_director_level",
+    "size_deviation_pct",
+    "company_z_score",
+    "quarter_end",
+    "trades_same_day",
+    "director_large_trade"
+  ],
+  "enhancements": [
+    "Optimal threshold tuning",
+    "Enhanced feature engineering",
+    "Precision-focused training",
+    "Business rules post-processing",
+    "Ensemble with calibration"
+  ]
+}
